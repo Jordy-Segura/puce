@@ -12,5 +12,6 @@ public class Puce {
 
     public static void main(String[] args) {
         System.out.println("Bienvenidos a la PUCE");
+        System.out.println("soy de la espoch");
     }
 }
